@@ -1,6 +1,9 @@
 # socket-http-sever
 HTTP Server made with sockets in Go
 
+# ip on aws
+3.224.154.71
+
 # project structure
 <code>
 .
@@ -14,5 +17,5 @@ HTTP Server made with sockets in Go
 └── README.md  
  </code>
 
-
+# reference
 reference: https://github.com/rsharifnasab/go-socket-http-server
