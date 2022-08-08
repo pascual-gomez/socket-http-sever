@@ -4,14 +4,15 @@ HTTP Server made with sockets in Go
 # project structure
 <code>
 .
-├── static                          # Archvios de ejemplo
-│   ├── test.txt                    # TXT
-│   ├── index.html                  # HTML
-│   ├── lab1.pdf                    # PDF
-│   └── favicon.ico                 # ICON
-├── main.go                         # Web Server
-├── go.mod                          # Modulo
+├── static                          # Archivos   <br/>               
+│   ├── test.txt                    # TXT                 <br/>
+│   ├── index.html                  # HTML<br/>
+│   ├── lab1.pdf                    # PDF<br/>
+│   └── favicon.ico                 # ICON<br/>
+├── main.go                         # Web Server<br/>
+├── go.mod                          # Modulo<br/>
 └── README.md  
  </code>
+
 
 reference: https://github.com/rsharifnasab/go-socket-http-server
