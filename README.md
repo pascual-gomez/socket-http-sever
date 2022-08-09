@@ -3,7 +3,7 @@ Student: Pascual Gómez, pgomezl@eafit.edu.co
 Professor: Edwin Montoya, emontoya@eafit.edu.co
 
 # Lab 1: Socket Web Server
-Simple concurrent web server made with sockets in Go.
+Simple concurrent web server made with sockets in Go using the net pacakge (https://pkg.go.dev/net).
 
 This server accepts GET HttpRequests by default on the port 80. It then processes the request and replies with a HttpResponse containing the asked resource.
 
